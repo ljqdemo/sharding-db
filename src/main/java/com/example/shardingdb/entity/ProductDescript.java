@@ -12,6 +12,7 @@ import java.io.Serializable;
 @Data
 @ToString
 public class ProductDescript implements Serializable {
+
     private Long id;
 
     private Long productInfoId;
